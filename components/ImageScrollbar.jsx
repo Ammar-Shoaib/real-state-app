@@ -55,7 +55,6 @@ const ImageScrollbar = ({ data }) => {
             src={image.url}
             placeholder="blur"
             blurDataURL={image.url}
-            src={image.url}
             width={1000}
             height={500}
             alt="property"
